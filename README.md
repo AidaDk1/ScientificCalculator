@@ -19,3 +19,6 @@ This project simple but,it can perform so many operations.Also,i noticed that th
 
 4) Aizirek Zamirbek kyzy's review
 Aida said that she learned a lot,during building of this project,which is the most important when creating projects.Overally,i can say that she tried to make this scientific calculator more advanced.In conclusion,i liked this project
+
+Screenshots from project
+
