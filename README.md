@@ -22,3 +22,12 @@ Aida said that she learned a lot,during building of this project,which is the mo
 
 Screenshots from project
 
+![Screenshot (95)](https://user-images.githubusercontent.com/65682383/162409707-6adced70-5f9a-4def-91d3-3bbc0c34a570.png)
+
+
+![Screenshot (96)](https://user-images.githubusercontent.com/65682383/162409741-bdd090eb-cc46-4101-b988-bf938989e76b.png)
+
+
+![Screenshot (98)](https://user-images.githubusercontent.com/65682383/162409765-225812ba-61a1-4cf0-9bed-a74d9a862035.png)
+
+
