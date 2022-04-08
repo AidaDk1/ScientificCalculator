@@ -1,4 +1,6 @@
 # ScientificCalculator
+This is scientific calculator,and i built this project by using c# windows form application.When building this project
+i learned a lot of new things.And now i have more experience in this language,and i undestood how actually works windows form apps.
 
 Text review from 4 people
 
